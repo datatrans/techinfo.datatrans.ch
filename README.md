@@ -1,1 +1,8 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+# Datatrans Certificate Renewal
+
+The renewal of the legacy certificates for payment.datatrans.biz, payment.datatrans2.biz and pilot.datatrans.biz are brought forward because of recent activities concerning certificates issued by Symantec Coorporation 
+
+https://www.symantec.com/connect/blogs/message-our-ca-customers
+
+![](/assets/Bild4.png)
+
