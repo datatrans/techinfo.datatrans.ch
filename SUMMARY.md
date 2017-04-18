@@ -14,4 +14,5 @@
 ## TLS 1.2 Migration
 
 * [Overview](tls-migration/README.md)
+* [How can I find out whether I’m affected?](tls-migration/how-can-i-find-out-whether-im-affected.md)
 
