@@ -3,8 +3,8 @@
 ## Certificate Renewal
 
 * [Introduction](README.md)
-* [Where can I download the certificates?](first-question.md)
-* [Why do we change the Certificate Authority?](second-question.md)
+* [Where can I download the certificates?](certificates/download-certificates.md)
+* [Why do we change the Certificate Authority?](certificates/change-ca.md)
 
 ## New Domains
 

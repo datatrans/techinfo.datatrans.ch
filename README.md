@@ -1,4 +1,4 @@
-Welcome to the Datatrans Technical Information Help Center, where we answer Frequently Asked Questions. Do not hesitate to contact us if you've got additional questions.
+Welcome to the Datatrans Technical Information Help Center, where we answer Frequently Asked Questions. Do not hesitate to [contact us](mailto://techinfo@datatrans.ch) if you've got additional questions.
 
-techinfo@datatrans.ch
+
 
