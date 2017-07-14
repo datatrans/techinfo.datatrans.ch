@@ -6,4 +6,4 @@ Date | Endpoint | Environment | Status
 **15.08.2017** | payment.datatrans**2**.biz | Backup | Scheduled
 **23.08.2017** | payment.datatrans.biz | Production | Scheduled
 <br/>
-![](/assets/OverviewCertificatesDatatransSmall.png)
+[![](/assets/OverviewCertificatesDatatransSmall.png)](/assets/OverviewCertificatesDatatrans.png)
