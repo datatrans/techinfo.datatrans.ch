@@ -19,3 +19,5 @@
 * [How can I inform affected customers?](tls-migration/how-can-i-inform-affected-customers.md)
 * [How can I test my client?](tls-migration/how-can-i-test-my-client.md)
 
+## Certificates
+
