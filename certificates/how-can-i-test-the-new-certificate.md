@@ -1,16 +1,18 @@
-The new certificate is already publicly available. To test it, you need to create a hosts-entry.
+When we change certificates, we provide you with an IP where we serve it in advance. To test it, you need to create a hosts-entry.
 
 | URL | IP |
 | :--- | :--- |
-| payment.datatrans.biz | 193.16.220.8 |
+| payment.datatrans.biz | - |
+| payment.datatrans2.biz | - |
+| pay.datatrans.com | - |
+| api.datatrans.com | - |
 
-The certificate for payment.datatrans*2*.biz is not yet publicly available. Please contact [techinfo@datatrans.ch](mailto:techinfo@datatrans.ch) for assistance in this matter.
 
 # Sample hosts file
 
 ```
 # certificates Datatrans
-193.16.220.8      payment.datatrans.biz
+193.16.220.4      payment.datatrans.biz
 ```
 
 

@@ -5,8 +5,8 @@
 * [Introduction](README.md)
 * [Overview](overview.md)
 * [Where can I download the certificates?](certificates/download-certificates.md)
-* [How can I test the new certificate?](certificates/how-can-i-test-the-new-certificate.md)
 * [How am I affected by certifcate changes?](how-am-i-affected-by-this-change.md)
+* [How can I test new certificates?](certificates/how-can-i-test-the-new-certificate.md)
 
 ## New Domains
 
