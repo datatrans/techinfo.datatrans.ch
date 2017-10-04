@@ -1,6 +1,6 @@
-
-
-![](/assets/payment.datatrans2.biz.zip)Welcome to the Datatrans Technical Information Help Center, where we answer Frequently Asked Questions. Do not hesitate to [contact us](mailto://techinfo@datatrans.ch) if you've got additional questions.
+# Important: TLS 1.2 Migration
+The new PCI DSS requirement mandates to disable early TLS. Datatrans disables TLS 1.0 and TLS 1.1 by **March 6th 2018**. 
+![](/assets/tlsroadmap.png)
 
 
 
