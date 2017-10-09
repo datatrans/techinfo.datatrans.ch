@@ -5,7 +5,6 @@
 * [Introduction](README.md)
 * [Overview](tls-migration/README.md)
 * [How can I find out whether I’m affected?](tls-migration/how-can-i-find-out-whether-im-affected.md)
-* [How can I inform affected customers?](tls-migration/how-can-i-inform-affected-customers.md)
 * [How can I test my client?](tls-migration/how-can-i-test-my-client.md)
 
 ## New Domains
