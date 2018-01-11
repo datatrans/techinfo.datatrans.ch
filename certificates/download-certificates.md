@@ -8,6 +8,8 @@ Use this links to download our Certificates.
 | pay.datatrans.com | SAN Certificate | 06.06.2018 | [datatrans.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/datatrans.com.zip) |
 | admin.datatrans.com | SAN Certificate | 06.06.2018 | [datatrans.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/datatrans.com.zip) |
 | api.datatrans.com | Wildcard Certificate | 06.06.2018 | [STAR\_datatrans.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/STAR_datatrans.com.zip) |
+| --- | --- | --- | --- |
+| api.pci-proxy.com | SAN Certificate | 03.02.2021 | [api.pci-proxy.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/api.pci-proxy.com.zip) |
 
 
 # Test
