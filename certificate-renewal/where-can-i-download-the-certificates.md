@@ -19,12 +19,16 @@ Use this links to download our Certificates.
 
 ## Test
 
-| **Domain** | **Type** | **Valid until** | **Link** |
+| **Domain** | **Valid from** | **Valid until** | **Link** |
 | :--- | :--- | :--- | :--- |
-| pilot.datatrans.biz | SAN Certificate | 06.06.2018 | [sandbox.datatrans.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.zip) |
-| pay.sandbox.datatrans.com | SAN Certificate | 06.06.2018 | [sandbox.datatrans.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.zip) |
-| admin.sandbox.datatrans.com | SAN Certificate | 06.06.2018 | [sandbox.datatrans.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.zip) |
-| api.sandbox.datatrans.com | Wildcard Certificate | 06.06.2018 | [STAR\_sandbox.datatrans.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/STAR_sandbox.datatrans.com.zip) |
+| pilot.datatrans.biz | **02.05.18** | 10.06.20 | [sandbox.datatrans.com.2018.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.2018.zip) |
+| pay.sandbox.datatrans.com | **02.05.18** | 10.06.20 | [sandbox.datatrans.com.2018.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.2018.zip) |
+| admin.sandbox.datatrans.com | **02.05.18** | 10.06.20 | [sandbox.datatrans.com.2018.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.2018.zip) |
+| api.sandbox.datatrans.com | **02.05.18** | 10.06.20 | [wildcard.sandbox.datatrans.com.2018.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/wildcard.sandbox.datatrans.com.2018.zip) |
+| pilot.datatrans.biz | 30.03.17 | 02.05.18 | [sandbox.datatrans.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.zip) |
+| pay.sandbox.datatrans.com | 30.03.17 | 02.05.18 | [sandbox.datatrans.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.zip) |
+| admin.sandbox.datatrans.com | 30.03.17 | 02.05.18 | [sandbox.datatrans.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.zip) |
+| api.sandbox.datatrans.com | 30.03.17 | 02.05.18 | [STAR\_sandbox.datatrans.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/STAR_sandbox.datatrans.com.zip) |
 
 ## Backup
 
