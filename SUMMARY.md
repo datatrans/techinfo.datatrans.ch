@@ -1,20 +1,22 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## TLS 1.2 Migration
 
-* [Introduction](README.md)
-* [Overview](tls-migration/README.md)
-* [How can I find out whether I’m affected?](tls-migration/how-can-i-find-out-whether-im-affected.md)
-* [How can I test my client?](tls-migration/how-can-i-test-my-client.md)
+* [Introduction](tls-1.2-migration/introduction.md)
+* [Overview](tls-1.2-migration/overview.md)
+* [How can I find out whether I’m affected?](tls-1.2-migration/how-can-i-find-out-whether-im-affected.md)
+* [How can I test my client?](tls-1.2-migration/how-can-i-test-my-client.md)
 
 ## New Domains
 
-* [Overview](domains/README.md)
+* [Overview](new-domains/overview.md)
 
 ## Certificate Renewal
 
-* [Overview](overview.md)
-* [Where can I download the certificates?](certificates/download-certificates.md)
-* [How am I affected by certifcate changes?](how-am-i-affected-by-this-change.md)
-* [How can I test new certificates?](certificates/how-can-i-test-the-new-certificate.md)
+* [Overview](certificate-renewal/overview.md)
+* [Where can I download the certificates?](certificate-renewal/where-can-i-download-the-certificates.md)
+* [How am I affected by certifcate changes?](certificate-renewal/how-am-i-affected-by-certifcate-changes.md)
+* [How can I test new certificates?](certificate-renewal/how-can-i-test-new-certificates.md)
 

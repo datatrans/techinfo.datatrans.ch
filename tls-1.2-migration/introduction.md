@@ -10,5 +10,5 @@ Customers with outdated browsers, operating systems or programming language envi
 **Effects of the changes on the Datatrans Datatrans Web Administration Tool**  
 Employees of retailers with outdated browsers will no longer be able to log in to the Datatrans Web Administration Tool by 6th March 2018. As of now, we will display a warning message to affected users after login.
 
-![](.gitbook/assets/tlsroadmap.png)
+![](../.gitbook/assets/tlsroadmap.png)
 
