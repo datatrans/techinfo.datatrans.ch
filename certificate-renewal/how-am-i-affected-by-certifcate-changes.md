@@ -1,10 +1,10 @@
 # How am I affected by certifcate changes?
 
-![](../.gitbook/assets/chain.png)
+![](../.gitbook/assets/chain%20%281%29.png)
 
 ## Root Certificate Trust Store
 
-Please check if you trust our root certificates.
+Please check if you trust our root certificates. They did not change since 2017.
 
 ## Certificate Pinning
 
@@ -14,7 +14,7 @@ Datatrans strongly advise **against **certificate pinning. Please contact us at 
 
 ## Public Key Pinning
 
-If you extracted the public key from our certificate, please check our new public key with the embedded copy of your applications public key, as this public key **has changed**. If you use our Mobile Library, please ensure that you use **at least Version 1.7.1 for Android or Version 2.1.0 for iOS**.
+If you extracted the public key from our certificate, please check our public key with the embedded copy of your applications public key. Our public key did not change since 2017. If you use our Mobile Library, please ensure that you use **at least Version 1.7.1 for Android or Version 2.1.0 for iOS**.
 
 We do not advise to use public key pinning . Please contact us at [techinfo@datatrans.ch](mailto:techinfo@datatrans.ch) if you're currently using or plan to implement it.
 
