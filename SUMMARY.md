@@ -2,17 +2,6 @@
 
 * [Introduction](README.md)
 
-## TLS 1.2 Migration
-
-* [Introduction](tls-1.2-migration/introduction.md)
-* [Overview](tls-1.2-migration/overview.md)
-* [How can I find out whether I’m affected?](tls-1.2-migration/how-can-i-find-out-whether-im-affected.md)
-* [How can I test my client?](tls-1.2-migration/how-can-i-test-my-client.md)
-
-## New Domains
-
-* [Overview](new-domains/overview.md)
-
 ## Certificate Renewal
 
 * [Where can I download the certificates?](certificate-renewal/where-can-i-download-the-certificates.md)

@@ -10,7 +10,7 @@ Please check if you trust our root certificates. They did not change since 2017.
 
 If you pin our certificate, you should replace the existing certificate. Certificate pinning has some downsides, as the certificate rotation will occur on a regular basis in the future and you would need to update the certificates embedded within your application accordingly.
 
-Datatrans strongly advise **against **certificate pinning. Please contact us at [techinfo@datatrans.ch](mailto:techinfo@datatrans.ch) if you're currently using or plan to implement it.
+Datatrans strongly advise **against** certificate pinning. Please contact us at [techinfo@datatrans.ch](mailto:techinfo@datatrans.ch) if you're currently using or plan to implement it.
 
 ## Public Key Pinning
 
