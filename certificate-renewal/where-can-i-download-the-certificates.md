@@ -6,10 +6,10 @@ Use this links to download our Certificates.
 
 | **Domain** | **Valid from** | **Valid until** | **Link** |
 | :--- | :--- | :--- | :--- |
-| payment.datatrans.biz | 30.05.18 | 10.06.20 | [datatrans.com.2018.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/datatrans.com.2018.zip) |
-| pay.datatrans.com | 30.05.18 | 10.06.20 | [datatrans.com.2018.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/datatrans.com.2018.zip) |
-| admin.datatrans.com | 30.05.18 | 10.06.20 | [datatrans.com.2018.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/datatrans.com.2018.zip) |
-| api.datatrans.com | 30.05.18 | 10.06.20 | [wildcard.datatrans.com.2018.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/wildcard.datatrans.com.2018.zip) |
+| payment.datatrans.biz | 27.04.20 | 31.07.22 | [datatrans.com.2020.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/datatrans.com.2020.zip) |
+| pay.datatrans.com | 27.04.20 | 31.07.22 | [datatrans.com.2020.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/datatrans.com.2020.zip) |
+| admin.datatrans.com | 27.04.20 | 31.07.22 | [datatrans.com.2020.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/datatrans.com.2020.zip) |
+| api.datatrans.com | 27.04.20 | 31.07.22 | [wildcard.datatrans.com.2020.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/wildcard.datatrans.com.2020.zip) |
 | --- | --- | --- | --- |
 | api.pci-proxy.com | 09.01.18 | 03.02.21 | [api.pci-proxy.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/api.pci-proxy.com.zip) |
 
@@ -17,10 +17,10 @@ Use this links to download our Certificates.
 
 | **Domain** | **Valid from** | **Valid until** | **Link** |
 | :--- | :--- | :--- | :--- |
-| pilot.datatrans.biz | 02.05.18 | 10.06.20 | [sandbox.datatrans.com.2018.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.2018.zip) |
-| pay.sandbox.datatrans.com | 02.05.18 | 10.06.20 | [sandbox.datatrans.com.2018.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.2018.zip) |
-| admin.sandbox.datatrans.com | 02.05.18 | 10.06.20 | [sandbox.datatrans.com.2018.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.2018.zip) |
-| api.sandbox.datatrans.com | 02.05.18 | 10.06.20 | [wildcard.sandbox.datatrans.com.2018.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/wildcard.sandbox.datatrans.com.2018.zip) |
+| pilot.datatrans.biz | 27.04.20 | 31.07.22 | [sandbox.datatrans.com.2020.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.2020.zip) |
+| pay.sandbox.datatrans.com | 27.04.20 | 31.07.22 | [sandbox.datatrans.com.2020.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.2020.zip) |
+| admin.sandbox.datatrans.com | 27.04.20 | 31.07.22 | [sandbox.datatrans.com.2020.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/sandbox.datatrans.com.2020.zip) |
+| api.sandbox.datatrans.com | 27.04.20 | 31.07.22 | [wildcard.sandbox.datatrans.com.2020.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/wildcard.sandbox.datatrans.com.2020.zip) |
 
 ## Backup
 
