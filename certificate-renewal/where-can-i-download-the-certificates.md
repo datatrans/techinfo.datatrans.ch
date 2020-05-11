@@ -10,8 +10,6 @@ Use this links to download our Certificates.
 | pay.datatrans.com | 23.06.20 | 31.07.22 | [datatrans.com.2020.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/datatrans.com.2020.zip) |
 | admin.datatrans.com | 23.06.20 | 31.07.22 | [datatrans.com.2020.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/datatrans.com.2020.zip) |
 | api.datatrans.com | 23.06.20 | 31.07.22 | [wildcard.datatrans.com.2020.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/wildcard.datatrans.com.2020.zip) |
-| --- | --- | --- | --- |
-| api.pci-proxy.com | 09.01.18 | 03.02.21 | [api.pci-proxy.com.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/api.pci-proxy.com.zip) |
 
 ## Test
 
