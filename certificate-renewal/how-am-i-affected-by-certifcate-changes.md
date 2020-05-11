@@ -1,4 +1,4 @@
-# How am I affected by certifcate changes?
+# How am I affected by certificate changes?
 
 ## Root Certificate Trust Store
 
