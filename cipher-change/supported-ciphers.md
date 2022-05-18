@@ -4,7 +4,7 @@ We will phase out deprecated ciphers in two steps. We are constantly monitoring 
 
 ### **Dates**
 
-#### **Phase 3**
+#### **Phase 1**
 
 Phase 1 will be implemented with the announced certificate renewal.
 
@@ -42,8 +42,8 @@ In phase 2, we continue deprecating ciphers containing Diffie-Hellman key exchan
 
 | Current                                                      | Phase 1                                                      | Phase 2                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| TLS\_AES\_128\_GCM\_SHA256 (`0x1301`)                        | TLS\_AES\_128\_GCM\_SHA256 (`0x1301`)                        | TLS\_AES\_128\_GCM\_SHA256 (`0x1301`)                        |
-| TLS\_AES\_256\_GCM\_SHA384 (`0x1302`)                        | TLS\_AES\_256\_GCM\_SHA384 (`0x1302`)                        | TLS\_AES\_256\_GCM\_SHA384 (`0x1302`)                        |
+| TLS\_AES\_256\_GCM\_SHA384 (`0x1302`)                        | TLS\_AES\_256\_GCM\_SHA384 (`0x1302`)                        | S\_AES\_256\_GCM\_SHA384 (`0x1302`)                          |
+| TLS\_AES\_128\_GCM\_SHA256 (`0x1301`)                        | TLTLS\_AES\_128\_GCM\_SHA256 (`0x1301`)                      | TLS\_AES\_128\_GCM\_SHA256 (`0x1301`)                        |
 | TLS\_CHACHA20\_POLY1305\_SHA256 (`0x1303`)                   | TLS\_CHACHA20\_POLY1305\_SHA256 (`0x1303`)                   | LS\_CHACHA20\_POLY1305\_SHA256 (`0x1303`)                    |
 | TLS\_ECDHE\_RSA\_WITH\_AES\_256\_GCM\_SHA384 (`0xc030`)      | TLS\_ECDHE\_RSA\_WITH\_AES\_256\_GCM\_SHA384 (`0xc030`)      | TLS\_ECDHE\_RSA\_WITH\_AES\_256\_GCM\_SHA384 (`0xc030`)      |
 | TLS\_ECDHE\_RSA\_WITH\_AES\_128\_GCM\_SHA256 (`0xc02f`)      | TLS\_ECDHE\_RSA\_WITH\_AES\_128\_GCM\_SHA256 (`0xc02f`)      | TLS\_ECDHE\_RSA\_WITH\_AES\_128\_GCM\_SHA256 (`0xc02f`)      |
