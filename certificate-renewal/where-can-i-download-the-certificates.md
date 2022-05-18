@@ -29,6 +29,6 @@ This section is not yet updated for the 2022 certificate renewals.
 This section is not yet updated for the 2022 certificate renewals.
 {% endhint %}
 
-| Domain | **Activation Date** | **Certificate Valid from** | **Certificate Valid until** | Link                                                                                                                   |
-| ------ | ------------------- | -------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| TBD    | TBD                 | TBD                        | TBD                         | [datatrans2.biz.2019.zip](https://github.com/datatrans/techinfo.datatrans.ch/raw/master/certs/datatrans2.biz.2019.zip) |
+| Domain | **Activation Date** | **Certificate Valid from** | **Certificate Valid until** | **Link** |
+| ------ | ------------------- | -------------------------- | --------------------------- | -------- |
+| TBD    | TBD                 | TBD                        | TBD                         | TBD      |
