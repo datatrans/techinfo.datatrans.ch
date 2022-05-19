@@ -38,18 +38,18 @@ In phase 1, we disable weak cipher block chaining (CBC) mode ciphers due to timi
 
 In phase 2, we continue deprecating ciphers containing Diffie-Hellman key exchange (DHE). While not considered weak when used with a 2048 bit strong key, they are very resource intensive and phased out in favour of Elliptic-curve Diffie–Hellman (ECDH).&#x20;
 
-
+The following table shows which ciphers are **active/enabled** in which phase:
 
 | Current                                                      | Phase 1                                                      | Phase 2                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| TLS\_AES\_256\_GCM\_SHA384 (`0x1302`)                        | TLS\_AES\_256\_GCM\_SHA384 (`0x1302`)                        | S\_AES\_256\_GCM\_SHA384 (`0x1302`)                          |
-| TLS\_AES\_128\_GCM\_SHA256 (`0x1301`)                        | TLTLS\_AES\_128\_GCM\_SHA256 (`0x1301`)                      | TLS\_AES\_128\_GCM\_SHA256 (`0x1301`)                        |
-| TLS\_CHACHA20\_POLY1305\_SHA256 (`0x1303`)                   | TLS\_CHACHA20\_POLY1305\_SHA256 (`0x1303`)                   | LS\_CHACHA20\_POLY1305\_SHA256 (`0x1303`)                    |
+| TLS\_AES\_256\_GCM\_SHA384 (`0x1302`)                        | TLS\_AES\_256\_GCM\_SHA384 (`0x1302`)                        | TLS\_AES\_256\_GCM\_SHA384 (`0x1302`)                        |
+| TLS\_AES\_128\_GCM\_SHA256 (`0x1301`)                        | TLS\_AES\_128\_GCM\_SHA256 (`0x1301`)                        | TLS\_AES\_128\_GCM\_SHA256 (`0x1301`)                        |
+| TLS\_CHACHA20\_POLY1305\_SHA256 (`0x1303`)                   | TLS\_CHACHA20\_POLY1305\_SHA256 (`0x1303`)                   | TLS\_CHACHA20\_POLY1305\_SHA256 (`0x1303`)                   |
 | TLS\_ECDHE\_RSA\_WITH\_AES\_256\_GCM\_SHA384 (`0xc030`)      | TLS\_ECDHE\_RSA\_WITH\_AES\_256\_GCM\_SHA384 (`0xc030`)      | TLS\_ECDHE\_RSA\_WITH\_AES\_256\_GCM\_SHA384 (`0xc030`)      |
 | TLS\_ECDHE\_RSA\_WITH\_AES\_128\_GCM\_SHA256 (`0xc02f`)      | TLS\_ECDHE\_RSA\_WITH\_AES\_128\_GCM\_SHA256 (`0xc02f`)      | TLS\_ECDHE\_RSA\_WITH\_AES\_128\_GCM\_SHA256 (`0xc02f`)      |
 | TLS\_ECDHE\_RSA\_WITH\_CHACHA20\_POLY1305\_SHA256 (`0xcca8`) | TLS\_ECDHE\_RSA\_WITH\_CHACHA20\_POLY1305\_SHA256 (`0xcca8`) | TLS\_ECDHE\_RSA\_WITH\_CHACHA20\_POLY1305\_SHA256 (`0xcca8`) |
 | TLS\_DHE\_RSA\_WITH\_AES\_256\_GCM\_SHA384 (`0x9f`)          | TLS\_DHE\_RSA\_WITH\_AES\_256\_GCM\_SHA384 (`0x9f`)          | -                                                            |
-| TLS\_DHE\_RSA\_WITH\_AES\_128\_GCM\_SHA256 (`0x9e`)          | LS\_DHE\_RSA\_WITH\_AES\_128\_GCM\_SHA256 (`0x9e`)           | -                                                            |
+| TLS\_DHE\_RSA\_WITH\_AES\_128\_GCM\_SHA256 (`0x9e`)          | TLS\_DHE\_RSA\_WITH\_AES\_128\_GCM\_SHA256 (`0x9e`)          | -                                                            |
 | TLS\_DHE\_RSA\_WITH\_AES\_256\_CBC\_SHA256 (`0x6b`)          | -                                                            | -                                                            |
 | TLS\_DHE\_RSA\_WITH\_AES\_128\_CBC\_SHA256 (`0x67`)          | -                                                            | -                                                            |
 | TLS\_ECDHE\_RSA\_WITH\_AES\_256\_CBC\_SHA384 (`0xc028`)      | -                                                            | -                                                            |
