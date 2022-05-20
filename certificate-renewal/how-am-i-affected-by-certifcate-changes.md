@@ -4,10 +4,11 @@
 
 Please check if you trust our root certificates.
 
-| Certificate Authority | Root Certificate |
-| :--- | :--- |
-| Comodo AddTrust External CA Root | [https://support.sectigo.com/Com\_KnowledgeDetailPage?Id=kA01N000000rgSZ](https://support.sectigo.com/Com_KnowledgeDetailPage?Id=kA01N000000rgSZ) |
-| DigiCert Global Root CA | [https://dl.cacerts.digicert.com/DigiCertGlobalRootCA.crt](https://dl.cacerts.digicert.com/DigiCertGlobalRootCA.crt) |
+| **Certificate Authority**          | **Root Certificate**                                                                                                                                                       |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DigiCert High Assurance EV Root CA | [https://dl.cacerts.digicert.com/DigiCertHighAssuranceEVRootCA.crt](https://dl.cacerts.digicert.com/DigiCertHighAssuranceEVRootCA.crt)                                     |
+| DigiCert Global Root CA            | [https://dl.cacerts.digicert.com/DigiCertGlobalRootCA.crt](https://dl.cacerts.digicert.com/DigiCertGlobalRootCA.crt)                                                       |
+| AAA Certificate Services           | [https://sectigo.com/knowledge-base/detail/Sectigo-Root-Certificates/kA03l000000c4KV](https://sectigo.com/knowledge-base/detail/Sectigo-Root-Certificates/kA03l000000c4KV) |
 
 ## Certificate Pinning
 
@@ -20,4 +21,3 @@ Datatrans strongly advise **against** certificate pinning. Please contact us at 
 If you extracted the public key from our certificate, please check our public key with the embedded copy of your applications public key. Our public key did not change since 2017. If you use our Mobile Library, please ensure that you use **at least Version 1.7.1 for Android or Version 2.1.0 for iOS**.
 
 We do not advise to use public key pinning. Please contact us at [techinfo@datatrans.ch](mailto:techinfo@datatrans.ch) if you're currently using or plan to implement it.
-
