@@ -13,7 +13,7 @@ pay.sandbox.datatrans.com\
 admin.sandbox.datatrans.com\
 api.sandbox.datatrans.com\
 \
-**Productive environment: 12.07.2022**\
+**Productive environment: **~~**12.07.2022**~~ (Postponed until further notice)\
 pay.datatrans.com\
 admin.datatrans.com\
 api.datatrans.com
@@ -22,12 +22,12 @@ api.datatrans.com
 
 Phase 2 follows after reviewing the change in usage of the phase 1 cipher selection.
 
-**Test Environment: 09.08.2022**\
+**Test Environment: **~~**09.08.2022**~~ (Postponed until further notice)\
 pay.sandbox.datatrans.com\
 admin.sandbox.datatrans.com\
 api.sandbox.datatrans.com\
 \
-**Productive environment: 06.09.2022**\
+**Productive environment: **~~**06.09.2022**~~ (Postponed until further notice)\
 pay.datatrans.com\
 admin.datatrans.com\
 api.datatrans.com
